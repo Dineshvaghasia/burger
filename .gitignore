@@ -1,0 +1,14 @@
+# Logs
+Build
+platforms
+.settings
+.project
+.buildpath
+node_modules
+plugins
+www
+ios-certificates
+builds
+package-lock.json
+.DS_Store
+.sourcemaps
